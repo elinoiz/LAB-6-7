@@ -1,0 +1,15 @@
+/* Стили для дневной темы */
+.app-container.day {
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  /* Стили для ночной темы */
+  .app-container.night {
+    background-color: #333333;
+    color: #ffffff;
+  }
+
+
+
+  
